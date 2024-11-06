@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "android-demo"
 include(":app")
- 
+include(":room")
